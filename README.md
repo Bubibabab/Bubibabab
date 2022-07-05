@@ -3,7 +3,8 @@
 - 🌱 I’m just currently learning this
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me
-- Just Send an Email
+- Just Send me an Email
+- bubibabab08@gmail.com
 
 <!---
 Bubibabab/Bubibabab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
